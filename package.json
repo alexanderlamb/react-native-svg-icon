@@ -1,6 +1,6 @@
 {
   "name": "react-native-svg-icon",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "A simple, but flexible SVG icon component for React Native",
   "main": "lib/index.js",
   "watch": {
@@ -37,7 +37,7 @@
     "react-native-svg": "^4.4.0"
   },
   "peerDependencies": {
-    "react-native": ">=0.38",
-    "react-native-svg": "4.x"
+    "react-native": ">=0.42",
+    "react-native-svg": "5.x"
   }
 }
